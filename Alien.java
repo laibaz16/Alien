@@ -19,28 +19,7 @@ public class Alien {
     stage1=s1;
     stage2=s2;
   }
-  public void move()
-  {
-//   for (int a=0; a<1000; a+=60)
-//    {
-//      for (int y=0+down; y<100+down; y+=45)
-//      {
-//        if (pic2==0)
-//        { 
-//      alien_x+=alien_xsp;    pic2=1;
-//        }
-//        else if (pic2==1)
-//        {
-//   
-//      for ( a=0+move; a<1000+move; a+=45)
-//    {
-//       
-//   }
-//     
-//  }
-//}
-//   }
-  }
+
    public void paint (Graphics g) {
          for ( a=0+move; a<1000+move; a+=45)
     {
